@@ -1,0 +1,152 @@
+Aleksei Items:
+Items: Heward's Handy Haversack
+Eversmoking Bottle
+Wind Fan
+1kg of items:
+
+potion of healing x4 (250) ; -1 200
+potion of water breather x1 (180) 430
+dungeoneer's pack (12) + grappling hook (2) 444
+Oil x25 pint (25lb; 25s) 444g 25s
+Acid x5 (5 lb; 125g) 569g 25s 
+Alchemist's Fire x1 (5 lb; 50g) 619g 25s
+Arcane Focus x1 (10g) 644g 25s
+subtracted potion of healing (-50)
+component pouch -> arcane focus (-15g)
+579g 25s
+Sling Bullets (x20) (4cp)
+Ink, pen, paper x5 (10gp,2 cp, 1g; 11g)
+Healer's Kit x2 (10gp)
+600g 25s 6cp
+603g +4s +4cp
+-------------
+Remaining Gold: 397g 4s 4cp
+
+Spellbook
+
+6 lvl 1
+2 lvl 1
+2 lvl 1/2
+2 lvl 1/2
+2 lvl 1-3
+2 lvl 1-3
+2 lvl 1-4
+2 lvl 1-4
+Total Known 20 (6 lvl 1)
+Prepared: 13
+Ability Scores
+15, 14, 13, 12, 10, 8 (+1 +1) Healer feat
+16      14
+2 ASIS
+20 
+
+Int 20
+Dex 14
+Con 14
+Wis 12
+Cha 10
+Str 8
+
+Pet Name
+Druzhok.
+
+SPELLS
+firebolt
+light
+mage hand
+shocking grasp
+Consideration: minor illusion
+
+Spells
+8 1st
+catapult
+detect magic (ritual)
+find familiar (ritual)
+identify (r)
+mage armor
+magic missile
+//shield
+absorb elements
+Healing Elixir
+(have 8)
+lvl 2
+flaming sphere*
+//invisibility**
+Phantasmal Force *** (dragons)
+misty step (or DD) **
+//hold person (or slow) ***
+web (?) **
+mirror image WANT ***
+pyrotechnics
+(have 5)
+lvl 3
+counterspell*
+fireball*
+fly*
+leomund's tiny hut**
+phantom steed (r)**
+slow (or hold person or web)
+melf's minute meteors*
+blink
+//remove curse**
+
+(have 10)
+lvl 4
+//dimension door (instead of misty step)*
+blight
+greater invisibility
+polymorph*
+(have 3)
+Must have: (8+1+4+1=14)
+Extras: (1+2+3+0)
+20
+
+You have all heard the famous tale, from a traveling bard, drunk beggar or an old cleric. Once it was
+bigger than a mountain, once it was sent by the gods themselves. Sometimes the tale told of a
+terrifying... thing... that spat flames, and at others of a great evil that demanded human sacrifices. One
+time a story even described things that were too horrifying to talk about, but usually they just said that
+it slaughters most of the townsfolk.
+Only one detail was consistent in all the varying stories, one thing that everyone agreed on. The
+reward! A reward at request sing the bards, a wish to order speak the rumors. And so you have come to
+the city of Majentic, whose name has been spreading in the winds over the past year. According to the
+tales, the governor of the city, Lordan ironwolf, has promised any prize you demand. You are not fools,
+so you know that you cannot expect to get any prize you wish for, but you are sure you will get a sizable
+reward nonetheless.
+So, like many others, you have come to face the terror of the machine. Some of you came to the city to
+save it and earn honor and praise, some of you came for the money involved, and a few of you are just
+here for the challenge.
+
+City of majentic, Lordan Ironwolf
+
+small halfling bard, large human with large sword
+middle age halfling. simon.
+got a thing on his back. backpack
+chipper, but keeping details about himself more guarded.
+Grim. Soldier type
+	asshole
+	
+Two entrances into the machine. chimney, it is shut. the mouth.
+we enter into his office. slightly furnished. 3 chairs.
+	we must go to a stage, and stand on the 3 places of the stage
+	
+	bunch of priests kneeling and praying to the machine
+	we try to go up the steps, but a priest stops us to "annoint"
+	
+bunch of gargoyles, colored squares
+red laser
+grey life
+blue invisibility
+green tp
+purple tp start
+yellow nothing?
+teal poison?
+orange ?
+
+mouth closes shut, no light
+long dimly illuminated hallway
+mosaic
+same picture, different color
+1-24
+17x sky and crown are different colors
+14x the face or the crown are color orange
+1 4 12 13 23

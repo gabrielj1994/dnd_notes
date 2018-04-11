@@ -1,0 +1,445 @@
+lvl 4 money: 400gp
+Splint: 200gp
+Shield: 10gp
+Longsword: 15gp
+crystal: 10gp
+amulet of Torm: 5gp
+smith's tools: 20gp
+Dungeoneer's Pack: 12gp
+262gp
+
+Markus Aurelion. Cleric 1/Lock 3
+14 14 15 6 16 13
+      +1      +1
+Feat: GWM
+14  Int
+14  Wis
+16  Con
+16  Str/cha (hex warrior)
+6   Dex
+14  Cha/str
+
+Appearance:
+6'2" Large, muscled frame, any skin you can see is riddled with old scars
+~35 yrs old
+A tatto on his right arm, a series of dilapidated chains in a swirling pattern up his arm.
+
+Spells:
+light
+guidance
+sacred flame
+prestidigitation
+eldritch blast
+
+lvl 1
+bless
+healing word
+1 cleric spell (cure wounds)
+
+lock:
+shield
+expeditious retreat
+
+lvl 2
+invisibility/blur
+blur
+
+People:
+Shard-> winterwind, half elf warlock of the immemorial glacier (pact of the chain)
+avengergbg -> rafael, human rogue (swashbuckler)
+morgan -> emori, half elf bard
+shadowsnke -> erdan, wood elf ranger/cleric
+brave sir robert -> sophia, human eldritch knight
+
+Hook:
+You are in the Black Gate district of Baldur's Gate. You need to head north to Waterdeep following a lead on the orphans.  You can chose to do so either as a travler or a guard. You have been directed by locals to a wagon maker named Ackyn. (In your backstory, if okay, lets make the raiders mercenaries and cultists. Works well with campaign.)
+
+Party dealings before I come in:
+they are on the trail of the dragon hoard, looking to pose as caravan hands in the caravan that may contain the hoard
+Winterwind and Rafael go into an inn
+Emori looking for info in the shops
+	looking for some lord balvadir(?). balvadier
+	some inn, elfsong tavern(?)
+	
+Some open area
+	one of the walls is opened up, inside are multiple wagons in different states of construction, very busy place.
+	human with white hair tied back in a pony
+	go to inn. someone looking for people with my talents. cautioned to be weary, might be more than i can chew. the 8th dwarf
+	
+go to inn. The 8th Dwarf
+	tip 2s to barkeep
+	winterwind: elven features. studded leather. raven sitting on her shoulder. wild theme to her accessories.
+	Emori: fairly young, elven features.
+	
+	group infighting.
+		rafael gets owned by a crit
+		
+	mission:
+		thievery in town.
+		barkeep
+			never heard of harcane
+			taurin. frumpy frup type guy. elven types of materials.
+			garviyre.
+				they hold a trade empire over most of the sword coast
+				when waterdeep was more prominent they were one of the trading family
+				green flag with 3 golden lilies and a trident
+		we go to garviyre's establishment
+			extra coin if we find out who is behind the attacks
+			50g per head
+			more if we find out who did this
+			the town guard will probably look fondly upon this.
+		delivering to the Wayward Inn(near opening gate from the eastern road):
+				the cart is stacked quite high 7-8'
+			emori sees sometehing with wings scurry on the roof of buildings
+				behind them there is a cloak with winged look to it
+			some dude steps out, lanky, studded leather, has a raven symbol on it
+				mid fight some guy with a frumpy hat and a feather sticking out
+					has some guards in tow
+					he is a town reagent, asks us to relinquish our weapons.
+						brother bartholomeu and some sister
+						road is suspiciously clear
+						the guards seem passionately focused
+						we make a guard and bartholomeu unconscious
+					some visage comes out takes notes in his book
+					combat ends
+						we search bodies and collect bag from behind building.
+							papers have symbol that looks like: egyptian hyeroglyphs.
+							the woman thief had a shortbow and arrows with funkyness on tips.
+							the guy has the raven queen symbol. some silver and an onyx raven queen
+							purple guy. clarence thimpleton
+								reagent of this area
+								granted by the council of baldur's gate
+								very wealthy
+								we wake up the guard
+									eric reagleton. private 3rd class
+								bunch of guards show up. captain of the guard is very understanding
+									take our stuff, lock us up
+									a magistrate shows up (murder of clarence thimpleton is too high notice)
+									winterwind does some dumb stuff with misty step
+									the other guard that died: stravis
+		exit lock up.
+			aedin: tasked with escorting us while the investigation is ongoing. seems pretty jovial.
+			a large individual. Avenger's new character
+				big man. goliath. 7'6", muscular. 300 pounds. half naked. chest: greatwurm tattoo & wolf. necklace of wolf. large weapons.
+				Makan Skycaller Ogoluthea
+			stravis:
+				-"Was Known"
+				-no family left behind
+			bunch of RP
+		we get to garviyre's mercantile house
+			bunch of work, very busy, bustly place
+			some people in fancy clothes that seemingly just got off a ship (smell of sea)
+			lord garviyre is a shorter stocky man
+				not dressed lavishly, but still has clothing of good quality
+					takes us on some stairs.
+						go down the big stairs, some side hallways
+							bunch of side offices in the side hallways
+							down the big hallway is more formal
+		MEETING WITH GARVIYRE
+			history with thimpleton
+				thimpleton was heavy handed with his power
+					so the history between them might paint a different picture for the public
+					we get some rooms
+			long RP session of exposition. then ruckus at front
+				lord clarence thimpleton is at the entrance with like 7 knights in tow
+
+WE BACK BITCHES
+				clarence thimpleton back?
+				We have no quarrel with you men, do not throw your lives away for the petty conflicts of arrogant noblemen
+				clarence turns out to be a doppleganger this time
+				after the battle, the robed man with book appears again.
+				loot
+					110g
+					wand
+					a very nice looking dagger
+						black onyx hilt
+						silver blade
+					something of aquamarine. 50g-75g
+			the captain of the guard shows up
+				with a member of the FLAMING FIST
+					Ratai
+					NOT KNOWN TO ME
+						sophia tells captain of guard about our task, and the fact that she is of noble bloodline
+					we tell them about the weird figure with book
+						ratai reacts to "Duly Noted"
+							invites us to the headquarters of the flaming fist
+FLAMING FIST HQ
+	lore:
+		Merc grp hired to bolster city guard and city defenses
+		neutral police force
+	keep structure
+		attended by sceneschals
+		ratai comes into room, has a book with him
+			book looks like the one the figure had
+				tells us of an ancient sect in baldur's gate. to the god of murder
+					assassin who left books such as this in their sceneschals
+						notes of their victims
+							all apprehended except one
+								gifted sorcerer with particular and meticuluous notes
+									predictions of sorts
+				god of murder. 3 deities
+					most recent one: bhaal
+						bhaal fell, ciric fell, bhaal returned
+		some person is reading us information from the book they have:
+			Bunch of information. One attempt with one survivor: Athella Ka. Whatever happened was so traumatizing she lost her mind. Some lord is housing her. Still mad.
+			Person gives us a scroll with her name, where she stays, and some information
+				had child, but child was taken away when she went mad
+				half elven child
+		we split up, one grp to gate district, others to higher end part of town.
+		GATE DISTRICT
+			makan and markus go there. the warehousy part of baldur's gate.
+			scope out the house winterwind saw the figure on top of.
+			there are more official looking people in this building
+			beggar:
+				trade house
+				the contraband criminals go here
+				security increased since the lords of waterdeep
+			makan goes to the guards at the door
+				startles the fuck out of the guard
+				asks where he can get hired to 
+					there is a taskmaster
+					passing some notes around
+			building
+				1st floor bigger
+				portcullis extends entryway around all four sides
+				very large stone structures that support this building
+				the first floor is not a warehouse, they go down to something beneath
+				at the back there is some official and well dressed going up.
+				there are a fair number of windows
+				four or five stories more but no windows
+				parapets to prevent landing there, at the top is where winterwind saw the figure
+				reason for all this is a means of security. whatever is on the upper levels is so important that it has been secured to this extent. precautions to prevent theft.
+			Makan
+				friend guard: francois
+				didn't use to be like this.
+				there used to be an open area
+					influx of trade from the port
+					waterdeep migration
+					built this system
+					gives him 7g.
+						points him to the inn: Golden Marry(?)
+				goes to taskmaster to get a job as a tradehouse courier
+					
+		OTHERS: HOUSE WHERE ATHELLA KA IS.
+			an elven male opens door.
+				butler
+					marshal(?)
+			he is very nice, but is concerned when winterwind mentions "wrest secrets"
+				then emori lies to him, so even more concerned
+			sophia lets out that it is about the resurgence of bhaal
+				he notes that the subject will upset her.
+			first two stories are clean but modest
+			third story is opulent
+			her bedroom overlooks the city and some gardens
+				she is delusional
+				thinks the players are ambassodars or something.
+				she is fully clothed, high neck on top of her corset
+					even has clothes on
+				recounting the events
+					she dissociated most of the memories (gore as decor)
+					she doesn't answer about what happened to thadius(?)
+					doesn't answer about the father of her son
+					she speaks of a son she should have no knowledge of
+						the records indicate she never had contact with him
+						pretty sure she was raped by the bhaal guy
+							child was the result of that
+					winterwind and morgan push too far
+						her composure breaks, second personality breaks through
+							insane, savage, brutal
+						keeps repeating "carmandis"
+						marshal calms her with a spell
+							tells us the ring is a gift from the son's father
+							there is an item that was delivered to her a few years ago
+								a totem of sorts
+			SPONSOR OF ATHELLA KA: leo regar
+				come in contact with the raven totem.
+					a direct insult to the raven queen.
+		
+		inquire about a temple of torm
+			large temple in the center district
+				temple row
+			closest chappel
+				small, 1 room location. symbol on a banner.
+				a brother in charge of the chapel
+				various prayer areas
+					visceral images
+					the children
+					the bond with torm
+						more at ease
+						acknowledgement of struggle
+		inn
+			3rd flyer, job opportunity
+				asking for a mediator
+	emori, winterwind, sophia
+		magic shopping: winterwind
+			Marigold's curiosities
+				winterwind purchases +1 AC
+				
+	Center district
+		more grand
+			more room to breather between buildings
+			more parks
+			odd central park area
+				there are different temples
+					the lady's house
+					temple of lathander
+					very large grand temple
+						the pillars have been arranged in four finger and a thumb
+							gauntlet shape
+							massive temple of torm
+							center of torm worship
+							approach one of the brother. brother tentarus
+								his symbol of torm is backed by a golden lion
+								there is the high cleric of torm
+									Barriltar Bhandraddon
+										very busy
+								one of the scheneschals can assist
+								clerical workers
+							the golden lion tattoo
+								order of the golden lion
+									destroy the enemies of the faith
+									HQ in other areas.
+										one near waterdeep. outskirts of neverwinter, a keep along the high road
+						go to clerical line
+						senechal allows me to give my account of the events
+						brother tentarus has taken an interest and puts the word out about my inquiries.
+							i should check up with them once i am up by waterdeep
+	back in the inn
+		somber news
+			murder of a benevolent lord:
+				Lenthdar
+	job: mediate trade dispute
+		bits and baubbles vs. frederick's
+			bits and baubbles
+				seems like we enter a green house
+				smells great
+				bit wildlife about
+				very nice finishings
+				very large oak counter
+				beautiful human woman behind counter
+					smudges on her face
+					an apron on her
+				shelves with trinkets
+					charms, some with faint magical auras
+		job:
+			something about a request
+				refused payment, something about impurities
+					she wants her payment
+						person still has the goods and has not paid
+			they are on bad terms due to:
+				the guy had a crush and was not reciprocrated
+		frederick's
+			artisanal tea shop
+			bunch of dried herbs
+			very tall man, not ugly
+				mustache
+				recessed eyes(?)
+				6'6"
+				apron on
+				very polite
+			"forgotten" about the contract
+				commissioned some items from an old friend
+				he refused payment
+					the item didn't work
+				brings down something magical
+					a crate of 12 small balls
+						inside each is a reddish gold liquid
+							an idea he had as a kid
+								doesn't perform what they are supposed to do
+					not the full story
+						he has tried to return the items
+						he has an interest in her
+						doesn't want to hurt her reputation
+wake up in the 8th dwarf
+	like clockwork, same routine from this place
+	we decide to head back to the flaming fist's HQ
+		SE of town
+			there are less guards
+			ratai doesn't give us the full story
+				has his guard up a bit
+		murder of lenthal
+			murdered at a gala
+				blatant show of force
+		guards have been dispatched to places of "high importance"
+			they are in the end mercenaries
+		bring up "carmandis"
+			a man of some renown
+			enjoyed debauchery
+			slimy noble
+        the spider on the shadows. rivalries.
+			the spider queen vs. the raven queen
+				the hatred of undead things
+		ratai has a symbol on his arm
+			very spiderlike
+				there are others with this tattoo in the city.
+					but these don't manifest powers over shadows
+		possible leads
+			investigated lords, but nothing
+				2 nobles held for questioning
+			what to gain from baldur's gate
+				the biggest city in the lord's alliance
+				the dopplegangers are oddly connected to the city's trade
+				ratai can get us into the trade commission
+			carmandis
+				ratai reacts again to this name
+				carmandis turned violent
+					unusual tastes
+					had several criminal interests
+						had an underground 'theater'
+							"acts" could be paid for
+					dabbled in dark magics
+						terrifying man
+				kind of a boogeyman
+				imprisoned somewhere
+					~30 yrs ago
+						1 year after the murders
+				interred in the south district's prison
+				
+Prison in the southern district
+	set near a small/large pond
+	large square building
+	no prison yard
+	looks like a large assylum
+	in the foyer
+	several members of the towns guards
+	clerkish looking guy
+		surprised that we want to see carmandis
+			old guy, soon to pass list
+			been here for a bit apparently
+				(29 years duh)
+		passing many levels on the way to carmandis
+			everything very clean
+			we get to carmandis' cell
+				you been up to something?
+					no - carmandis
+				dude is very old and frail
+					very bright eyes. odd
+					its all an act,
+					winterwind's trick works. he is lucid. ask winterwind to kill the guard.
+						might be a code phrase?
+					which one are you?
+					getting the five back together?
+					did vindicus send you?
+					kidnapping his mother?
+					the guard seems to like to hurt the elderly                             
+					to keep me here, him and that fool wizard?
+						baahl waits for no one. and he is currently waiting
+			i go mission impossible all on this bitch
+				can't kill carmandis, missed twice
+				he goes down a grate, some sewers, and cisterns
+					i follow
+				carmandis
+				circular room in the sewers
+					
+					youngish voice: do you think you were followed
+					carmandis: no
+					young voice: if you touch her, i'll kill you!!
+					the kid comes to check. he sees me, i see him
+						a very pale half elf, short black hair, cut it himself.
+							muscular features
+					
+					
+			
+								
+									
+				

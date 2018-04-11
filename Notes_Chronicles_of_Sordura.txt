@@ -1,0 +1,380 @@
+Phrase: Est e' seere
+Rest in Peace.
+
+Personal Story:
+
+You are coming from the same material plane as Himo but your char doesn't know that. You don't know whether the "Elven party" that helped the Radiant Shield defeat the drow and is now taking on the Wereboars is from the other plane or locals. 
+Since that material plane will not play a part in the game, you can if you want embellish a bit on it as long as you don't go overboard (no things like "my father had a weapon forged by a God" or "I was having a good time riding my pet gold dragon, but I decided to move here"). 
+Whether you will share that you're in an exploration mission from another material plane is up to you. Telling them may have good or bad consequences that I cannot predict or that I can predict but not share; it is one of the decisions you have to make and that they may influence the game. Choices matter. 
+
+Now, about your time in Sordura pre-game, how about this:
+Your party arrived in the Kingdom of Ceophate. It is ruled by a paranoid king that has managed to alienate those loyal to him and surround himself with yesmen. Yesmen he suspects and often lashes out against. His paranoia led the Duchy of Petus (area 3) to rebel 12 years ago. With the help of a couple more duchies (Area 2 has 2 duchies), they won and formed the Kingdom of Anovel (Areas 2-3). The various guilds (including the Ceophate mage Guild) have strong influence in the court.
+
+There's a custom in area 4, that when you enter a house you touch your fingers in some ash, in honor of all the people that died defending the area and the hearth of that household. Not doing it is offensive to them for some it is consider bad manners but they get over it. For others it is a grave offense and they will strongly dislike you. Near the borders, people get less offended with outsiders not knowing the custom and often inform you. In other places, especially isolated rural areas it is considered unthinkable to not know it (think like someone not knowing that eating with your hands is considered crude). I hope you tell the party about it if you head with them in Ceophate in the future because it may cause problems.  
+
+
+After a little exploration you tackled an evil party (warlock, cleric, assassin, fighter) that has aligned with fiendish forces, gaining through nefarious pacts the service of 4 Mezzoloths, a couple dozen Hades-influenced hobgoblins and a couple dozen bandits. With the help of an idol, the party along with the fiends were transforming "worthy" hobgoblins to the Hades-induced fiendish variant. Think Tiefling-hobgoblin but more powerful. Unsurprisingly, both the pact to keep the fiends and the transformation ritual required sacrifice. Unworthy hobgoblins were one source. Abducted humans were another. Your party with the help of a few locals, managed to defeat the evil party although you lost a couple of people in this adventure. 
+Then you were left with the idol. The Mage Guild of Tessaron that contacted you in the mean, refused to get it to their plane but gave you the means to destroy it. It took a long (and dangerous) foray to the top of a mountain overlooking Ceophate to locate a single shrine. A celestial resides there and he gave you some of his blood. Then you traveled to the swamps to the West and got some acid from a young black dragon (the hard, painful way). With the celestial's blood and the black dragon's acid you performed the cleansing ritual required and slashed the influence of the unholy patron to the Idol. 
+Around that point, your party has lost another member (told you it was the hard way with the dragon...). The remaining two, a sorcerer and a rogue had no interest at all to risk their lives to help people and said they would just go to the safe areas, take notes, enlist a couple of locals and be done with it. 
+
+That's where (I assume) you said "You know what? I liked crushing the influence of a Gehenna puppeteer to this place. I will keep at it. Bye friends!" and left. Soon after that the Ceophate's secret agency (Think KGB\Gestapo) took an interest in you. So you left although (I hope) you didn't get in trouble with them.  
+
+
+Sessions Log
+Gateway to new land: Tessaron.
+Crinuim County. Landing zone after gateway. Cloud Giants Epixandros and his wife.
+
+City Misthold.
+	Scholar. Councilor Turgerem.
+	
+Big mission. Undead gathering in the hills ~1 day travel from city.
+	Temple to evil god Nerull
+	
+Travel to Petus Duchy.
+	Goal: explore ruins of Arjahast's lab. Arjahast (wizard-king).
+	
+	Crossed the Lawless Lands. Settlements claimed by the Age of Darkness
+		Tower Ruins.
+		Conodar Host outpost.
+		Remains of Regraad. Inhabited by Calibans, deformed humanoids as a result of curses or arcane magic + pregnant women.
+		Smugglerhold. Settlement of buildings in a cliffside. Lawless.
+		Characters met: 
+			elf Lotharias (veteran of the war with dragons in Glimmerwoods). Dragons crushed resistance a couple years ago and ended his tribe
+			Dwarf cleric Dogrun. Leads the group for the enlighted council. In smugglerhold.
+		
+		While in smugglerhold:
+			Disbanded a bandit group.
+			Membership to "The Cruanurs". Thief's guild out of Whitebone.
+			
+		To Whitebone
+			Whitebone is built inside the ribcage remains of a huge creature that died over a millennium ago. 
+			Professor Jurik Karden, academic rival of Councilor Turgerem
+				Told of the danger in Arjahast's first lab.
+			Arjahast's Lab
+				Fought a purple naga, The Keeper.
+				
+	Back to Misthold
+		captured by drow.
+	
+	Captured by drow
+		The Holy Order of the Radiant Shield to the rescue
+			Leader: Baron Brighthorn
+		The Cruanurs also help, but then leave once the first battle is won.
+		Holy Order + heroes defeat drow wizard.
+		
+		Main Drow Base. 1300 fortress built by the Scourge.
+			Drow Priestess Bazara Guvatora
+		Head to Barony of Brighthorn and Sir Farstrider's lands (North)
+			Chilled for a bit
+			Amanda Holker came with news of Fire Giants to the West.
+			
+		Go to Anovia
+	
+	Anovia
+		First truly large city. Anovia is a city of grandeur, with generations of nobles spending money to make sure visitors would be awed by the large statues, the decorated palaces, the impressive facades of the trade guilds, the well-tended parks, the impressive cathedral and the smaller temples.
+		
+		New Job: Dusktusk
+			wereboar warlord that started the wereboar threat in the area and is considered one of the most powerful threats in the kingdom.
+		
+			Traveling to hillhold barony and mines. 
+				Cloud giants showed up.
+				Madam Montarri requests that the heroes recover the head of her mother from Traitor's Grove.
+					reference to "To Sleep With Evil"
+					Montarri ends up being a crazy witch or some shit, exchanging her own head with another in a ritual
+			
+			Hillhold Town
+				Kill some wereboar, free some people.
+				Calibans are actually people who were afflicted with lycanthropy against their will (Wereboars).
+				Order of Silver shows up. Jeneber, silver dragon. Serve the silver dragons in "Silver Heights"
+				
+			((Unusual break in continuity in the notes))
+			Sculptor of the Void challenge.
+				To Monastery of the Nurturing Heart.
+					orphanage in endangered lands
+					Clerics of Yondala
+					Order of the Holy Mother.
+					Meet Master Esquire Janava Herdem.
+						killed some wereboars. But some bad interactions went down with the knights.
+					Back to Hillhold
+					
+			Hillhold Town
+				Blackband thugs gathered strength. Supplied by the Knights of Bane
+				Marenger Knight from the Dravia duchy to the East. Did some shit, got banished
+					served Bane, head of the Lawgivers.
+					
+I am directed to the Inn Jolly Man.
+	3 story inn. Quite well made. Guarded by members of silver order, town watch, and military.
+	inside. 2 guards. Big guy, 6'2". Hide armor and has a mace, unshaved. A kid, quite young. A fat woman, in the 40s.
+	A fire place burning. A couple shattered windows.
+	Himo comes down. High Elf, studded leather armor, very inquisitive look.
+	Sir Seraph. Not very powerful looking. half elf. blue eyes. decked out in dented plate armor. a fine cloak. a shield on his back, shield of the order of the radiant shield. a large silvered maul.
+		brother of the radiant shield. Steward of heriarch.
+	Animus. A (something) mage of high rank. 4'8", tanned skin. A silver necklace of the imperial guild. 
+	
+	Seraph Mentions the Fingers of Pelor:
+		gotta travel somewhere, and maybe enlist new allies.
+		wake up at dawn. overcast.
+	We head to the fingers of pelor.
+	we crossed into dravia.
+	Amanda Holker. freeborn, auburn hair, mid twenties, average build. Horse archer.
+	A chimera on the way to the fingers of pelor.
+		Lion, Eagle, Snake.
+			we mess up the heart. but we get the liver and the snake head. we also want to get the lion teeth.
+			Go to town to collect reward. Grasmere, capital of county Rosengreg.
+			I casted magic illegally. Himo passes me his pendant. I use it to get off scott free.
+	Grasmere. 300 ft from wall is a wizard tower in disrepair.
+		Surrounded by fields, farms, and small villages.
+		Constable Niorgo Lyndem. Brother in law of the Count.
+				Wearing insignia of the count. Plate armor. ~30 years old. Strict features. trimmed thin mustache.
+			will give us reward.
+			at barracks
+				stone fortified building. 60x40ft. 3 stories. small windows, barred. guarded. Everyone has the insignia of the count.
+				In the stormpeaks, and the hills at the bottoms of keovia there are Ettins.
+					Ettin Wereboar. Lionmane mercenary company. Gerton Marden slayed the ettin wereboar.
+		The order of radiant shield are in town. Perceptor of something or another.
+		For troops.
+			the count
+				we get a meeting with the count
+			commander rosengreg
+			and another person.
+		Lord Niorgo Lyndem Directs us to an inn
+			the ivory fork
+		The count
+			tells us that there is a dragon in league with the were boars.
+				passage to the dragon is blocked by half dragon and dragon born.
+				Lord isdin (duke) is at the fingers of pelor.
+	We continue to the fingers of pelor
+		obelisk 50 ft. tall 7 ft. wide. runes all around it.
+		people surround it. Priest and acolytes.
+		I have to stand back, it burns my arm.
+		Priest approaches the party. Terlon.
+			has the symbol of pelor.
+			There is word that the heir of the duke is waiting for us.
+			The pillar runes grow stronger as Seraph prays.
+				the pillar's shadow seems to avoid seraph.
+				Pelor promises aid in the fight against dusktusk.
+	Returning
+		run into the aforementioned heir to the duke.
+			a veteran knight. sir wyvernheart
+			Lord Breron Aisdin. Married to the king's daughter.
+				we botched introductions. But he informs us of some troubles, that complicate Dravia's situation.
+					will help if we dispatch the draconic issue.
+						promises knights and mercenaries.
+						We will reconvene at a campsite to share our decision.
+							Young red dragon (15').
+							Half dragon sorcerer, Arithis-Kur.
+								inhabits the ruins of a former temple of koleron. blocks the path to the dragon's cave.
+								
+							Afflicted Wereboars. Calibans. Other dragonborn. Chardwarves. Ettins. Flying Kobolds. Kobolds.
+							
+	Coming in after the fight against the dragon. Now moving against Dusktusk.
+		Going into the eastern mine (small mine) to fight against dusktusk.
+		The wereboars MADE A SMOKESCREEN of human hair, rotting flesh, and ash or something. Decreased visibility and aggravated horses.
+		we descend into the pit mine. Some double doors bar the way. trapped with green slime (probably acid)
+		We see an ogre hiding. There was a caliban leader and caliban shamans. dispatch them
+		There is water, smells of chemicals (materials for mercury).
+		Find a small little camp in a cave nook.
+		fIND A laboratory. A sorcerer was staying there.
+		
+I got a bunch of money. Banked my share so that I don't have to think about it.
+We got a scout: Tashana. Her voice is drawn out whispers, with heavily accented something.
+Moseh, Ceophate guild member. in the mountains. strong magics. took on a new master. Hasrami coffin, ancient item, changes goblins into goblines.
+
+	GOBLINES. magical creations mostly out of goblins. forbidden magic. transforms goblin or other humanoid into small evil subservient creatures.
+			lower half of their head is a maw, sharp claws. if they grab someone, they attach to someone and cause permanent scars.
+	we go through
+		grasmere
+		matlock
+			BARONY OF LANGSTORM
+				one of the two baronies of the county. mostly defends the duchy from the monster of the stormpeaks, like ettins
+			2k-3k people. large red walls 20-25 FT HIGH
+			the gate 20 ft high, thick wood, reinforced with bronze plates.
+			engraving of a giant.
+			EXPECT: ettins, mantichores, peryton, ogres, giants
+		<TRAVELING> find remains of a huge statue.
+				behind foot we find a journeyman of the imperial guild. a halfling
+					animus scares the shit out of him
+			Cloud Giants looking for himo.
+					YOUNGLINGS.  Athalis and Matana
+					25ft tall. blue/grayish skin. 
+					Moseh.
+				he made a bet with them. 
+				Magas. Dwarven goldsmith.
+			Some Fairies/Pixies. Rawfairies(?)
+				Talk to King Cazuur
+				fat. 6.5 inches. bronze. gold crown
+				we essentially start a congregation when animus starts dancing with them.
+				welcomed to stay for as long as we want.
+				ASKS IF WE ARE HERE TO take care of the PROBLEM THEY HAVE WITH THE STATUE OF <Uvuna(?)>, and the evil and duplicitous razafey.
+					magical statue. they leave sacred berries over night. the one who eats doesn't have TO EAT OR DRINK FOR A DAY.
+					their dictator can transform into a huge creature by absorbing the vorality of their vassals.
+				the evil fairies casted a smaller darkness. Magestic Dictator talks elvish.
+					he said that they need the berries to empower the mounts to protect the RUINS.
+				unresolved
+			See some ettins.
+					
+		webhill
+		
+	<Missed a session>
+	party went into some haunted dwarven place
+		Big door bars the way, there was a trap pit in front of it
+		seraph kicks the door open
+		fight specters, and ultimate evil
+		12 gems (400 gp total).
+		we cleanse the desecrated altar.
+	run into some big dwarf statues, bridge on a big lake
+	a watchtower, we go on to some farms. They told us to go a bit further
+		animus gives him money
+	we get to webhill
+		town of 3k. stone walls. watchtowers with ballistas
+		county around barony, crowton
+		duchy of acreopis
+		one of the most powerful wizards in this duchy.
+	Go into cave
+		very alien architecture, old elven.
+		gibbering mouther in a throne room
+			has runes pulsing in the ceiling.
+		descend into a stair case with a vortex of runes
+			hallway leading to double doors. bash through
+			half spherical room, with many runes
+				hanging cages from the ceiling
+					different humanoids in the cages, in various state of malnutrition
+				skeleton in the middle of the room.
+			moseh chanting
+				not humanoid
+				greenish blue hue
+				has more arms
+				legs have been entombed in big rocky formation that connect him to the whole building
+				tubes, crystals, embedded in his body.
+					the embedded spots are oozing black ooze
+				scalp has been broken off, attached on his shoulders two big jars with floating human brains. The jars are connected to his actual brain.
+
+Me
+	Dazed
+		disad
+		lost concentration
+
+escaping the cave, exploding after killing moseh
+	animus' mother appears.
+		high elven wizard of the imperial guild. trained in the imperial capital guild.
+			high elven wizard deus
+			
+			
+we travel to the celestial meeting point in the storm peaks.
+	meet a bunch of people. Brogon was there.
+	Tergoon "rockbottom" Varton
+		paladins will figure out which souls to save and which are rightfully damned
+		we need mortals to grab the pacts, celestial cannot touch
+			don't grab pacts of those made freely
+		two of the groups called will hold the portal
+		pens(?) of tears
+		library of the damned
+		vanguard of harazim will carry the liberated souls back
+We go through the portal
+			
+The Glaive And Sword:
+The captains: 
+Boss: Raza, the laughing knight, Mummyhands.
+Senior captains: Brogon (most experienced, 100+ years figthing experience) dwarf champion of few words that has traveled here all the way from Rockheart, Ritorn Rosengreg (Birthright)
+Junior Captains: Vergun (half-dragon holy warrior with the Silver Order), Kardag (war cleric and high-ranking officer in the armies of Ekreopis), Nirdon (Elven Liberator that operates in the Republic, archer and scout), Curnavia Ironhorn (Sorceress from Ceophate), Berpen (battle-hardened warrior), Horabatha (Adventuring rogue from Ceophate)
+Lieutenants: Cermona Franherd (scout good with bow and swords, from Ceophate), Porgan Trustblade (Paladin of Heironeous, not attached to the Radiant shield, from Ceophate).
+
+	My gold:
+		charheart. 4500g/4 = 1125g
+		dusktusk:
+			375/month(9 months)
+			762.5
+			500g of equipment
+		total: 1887.5 + 500g of equipment.
+
+		moseh:
+			300gp
+			
+	TOTAL: 3287/5
+	carrying: 500g
+NPC Control:
+Artogal the Fearless
+AC 17\20 hp 135
+str 20 dex 12 con 17
+Athl+8, perception+3
+Str+8, Con+6
+
+Parry: +3 AC as a reaction
+Action Surge
+Courage: Advantage vs fear
+Multi-attack
+
+2x greatword+10 ~>2d6+7 [[2d6+7]]
+Artogal Multi-attack: [[1d20+10+1d4]] [[1d20+10+1d4]]
+
+Greatsword+2, splint armor, potion of extra healing (3d8+5), 2 potions of recovery
+
+Kariz.
+But I am disappointed that you didn't remember that Kariz pulls pranks and shares extravagant stories (of doubtful veracity) about her weird homeland (the Dominion, a buffer state between the Theophylakti Empire and their competitors, the Empire of Golden Sands).
+In any case, if you spend more than an hour with her, she would say this or that about her homeland. Like how the Theocracy there turns "blasphemers" to half-scorpion hybrids. Remember the Queen of Scorpions? She's from the Dominion as well. Probably a traitor to the Theocracy.
+The Queen of scorpions is a big evil next to Seraph's lands. Ask him about her if you want.
+Kariz doesn't tell you more about her
+Oh, you do? SPLENDID!
+The whole bunch of their religion seems bad. Even the "Good" concepts are kinda step towards evil.
+Sun (the one I forgot): In a far more neutral take than Pelor. Force of nature. Provides warmth, kills with dehydration. Nurtures the plants, kills with draughts. He is unconcerned with the lives of a few mortals and moved only by big things. 
+King Scarab: He's for protection, order, crafts and engineering. 
+Queen Bee: Providing for family but mother-side (i.e. forgiving), civilization (i.e. social ranks) along communications and trade. She promotes self sacrifice and if needed, death to support one's betters. 
+Master Scorpion: Enforcer, providing for family, protecting one's own. Also poison, torture and honor-killings.
+ Providing for family by killing others is OK-ish in the Scorpion's eyes. YOU CANNOT MISS KARIZ'S TATOO OF THE SCORPION ON HER SHOULDER. 
+
+Lolth: Assassins, intrigue, lies. She is kinda permitted to be worshipped since intrigue is not that bad and the Dominion employs state-trained assassins...
+??? (snake God): Yuan-tis (the enemies of the Dominion), arcane magic + necromancy.
+
+You should convince the others to go there.
+By teleport, since if you go by road we will hit campaign end before you cross the whole Empire and reach it
+(those she doesn't tell you, it was a suggestion from me)
+As a note, King Scarab has the nice things, but he's a butthole.
+None of those are really good like Yondala or Heironeous. They may be, but that's not the way they're worshipped and their religion used.
+Queen Bee is the best of the bunch but she's all for slavery.
+
+AC 16 hp 52
+str 12 dex 18 con 14 wis 13
+Athletics+3, Nature+2/4, perception+5, stealth+7, survival+5
+Saves: dex+5
+Archery
+Action surge
+Cunning action 1/enc
+Sneak attack: 2d6
+Multi-attack
+2x sh-sword+6~>1d6+4
+2x shbow+8~>1d6+4
+Spellcasting: +3 magic attack, DC 11. 5 known spells
+4/4 1st: cure wounds, hunter's mark C, Alarm
+3/3 2nd: Pass without trace, darkvision
+
+Short Bow attack: [[1d20+8]]
+[[1d20+6]]
+Spell Slots:
+
+3/4
+2/3
+
+USED DARKVISION
+					
+TODO:
+	Reaction Attacks!!!!!
+		
+	My Name: Razasheir Ceronius Seleuciant First of His Name Last of his Line, The Laughing Knight. The Warrior of the Mummyhand.
+	Tell party about the ash custom in area 4. Kingdom of Ceophate.
+	
+Different Talks:
+
+Jeneber about fiend activity.
+	Tells me about the Queen of Slaughter
+		too strong
+		can tackle those that mimic her
+		TODO: Talk to father Jildor. Order of the Holy Mother as well.
+	Tells me of a demonic totem in the hands of a warlock. This was the band I dealt with.
+		DEALT With
+	Frozen Crown
+		created by gelugons in the cold layer of the 9 hells. Mind Powers. Other Magic abilities.
+		She gives you some leads (Kingdom of Traimor, at the duchy above your heads that suffered the plagues. And it also has the Cult of Vecna remnants)
+		vile dwarf uses it to assemble a small band of evil creatures.
+	Cult of Vecna
+		She gives you some leads (Kingdom of Traimor, at the duchy above your heads that suffered the plagues. And it also has the Cult of Vecna remnants)
+	Church of Bane

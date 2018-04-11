@@ -1,0 +1,62 @@
+Michel's character. Radok Vagrant.
+
+400gp:
+studded leather 45gp
+rapier x2 50gp
+Longbow 50gp
+arrows x20 1gp
+thieve's tools 25gp
+quiver 1gp
+dungeoneer's pack 12gp
+climber's kit 25
+grappling hook 2gp
+
+caltrops x4 4gp
+balls bearings x4 4gp
+component's pouch 25gp
+manacles 2gp
+
+-221gp
+
+Spells:
+hunter's mark
+goodberry
+
+absorb elements
+
+proficiencies:
+choose 4.
+acrobatics (**)
+athletics 
+deception (bg)
+insight (**)
+intimidation x
+investigation (*)
+perception (*)
+performance x
+persuasion x
+sleight of hand (**)x
+stealth (bg)
+
+expertise:
+stealth 
+investigation
+
+ranger proficiencies
+nature
+
+He (Radok) is from a wealthy family, the Vagrant house. They are a player in the criminal underground, mostly known as hired assassins/specialists. His father, Marik, the head of the house, was a cold and calculating man, and Radok, being his firstborn, was pushed by him to be even more so. This was his father's twisted way of grooming radok to accomplish what he could not. However, his mother, Ophelia, had other hopes for him. She doubled as a motherly figure, and as one of his many tutors. Her and another of his instructors, Swordmaster Zarhim, worked throughout the years to instill in him values that would counter balance the teachings of his father. Early on Radok didn't seem to take to their teachings, his father was an overpowering figure, and not a man to be denied. However, something began to change in him during his teenage years. A spark had galvanized  the prior tutelage to the forefront of young Radok's mind. Katherine was the spark's name. A young member of the household staff, often helping the gardener with the upkeep of the mansion grounds, Katherine didn't stick out much. But she had captured Radok's attention amidst the preparations for one of the famous Vagrant autumnal hunts. From that day forth he would find excuses to visit the groundskeeper, and have a higher chance of running into her. Over the years, their friendship would blossom into an impossible relationship, but most importantly, she would show Radok that there were other ways to live one's life. One did not have to take or destroy, one could instead choose to give and create. Eventually, Radok would come to a tipping point, were he had to choose his path in life (roughly around ~18 years old). He would choose to turn away from the teachings of his father, and forego the Vagrant name. ((I have an idea for the tipping point event, but it is not set in stone: in his last assignment he would find his target with company, but when he goes in to complete the task he notices the company is his mother. She tells him she hoped his father would send him, and not his brothers. Tells him his father is an evil man, that he didn't use to be this way, and that his plans must never come to fruition. She gives radok an ornate ring, and tells him to run away with Katherine. She wanted him to grasp at the chance for a happy life, not a life as a murderous tool under his father.)) And thus Radok runs away with Katherine, having given her the family heirloom as a token of his love for her, and a marking for a new chapter in their lives. Radok knew his father would send after him, but his lifetime of training did not go to waste. He would do the best he could to cover their tracks, moving from forest village to forest village, under the guise of newlyweds setting out to found a home. His skills lended themselves fairly well to the forest, and Radok would often take up the work of the village ranger, or offer his apprenticeship if one already existed.
+
+This would continue for a number of months, until Radok felt confident he had lost his family's trackers, and comfortable enough in the woods to make a living of it. His confidence was well founded, and for a number of years Radok and Katherine enjoyed a modest, but happy lifestyle.
+
+That would all change six years((or whatever best fits timeline)) later, when he'd return from a hunt and see his house ransacked, furniture thrown every which way, his wife nowhere to be found, and a small amount of blood spatter by the door. In the middle of the room stood the dining table, oddly out of place as the only piece of furniture left whole. As he approached it, he noticed a piece of paper on it, and picking it up his heart sank. It was a letter, and imprinted on the wax seal came the visage of a lifetime ago: the Vagrant family seal. 
+
+so i am thinking of multiple ways his back story could lead him to us: the cult of the dragon are recruiting powerful families of the criminal underground, so his family got tied up with that; maybe the family heirloom his mother wanted to keep away from his father had something to do with his father's plans, maybe it has some value to the cult of the dragon, and they know the Vagrant family is supposed to have it; for whatever reason the cult and the Vagrant family have some working relation, chasing down leads Radok runs into some of the agents working against the cult. These agents know of the party and think they may know something to help Radok find more leads; etc.
+Also, I would like for his wife to be alive. One way I was thinking about it is maybe his mother and Zarhim were actually members of these anti dragon cult organizations, and when they got wind that Vagrant agents were sent on a mission they actually got to Radok's house first and were able to take Katherine to safety (the blood being from Katherine injuring them thinking they were Vagrant agents).
+
+
+FROM SKT:
+
+Radok Vagrans, once a criminal through and through, but imprisoned for a crime he did not commit. He was the heir to the Vagrans family, once one of the crime syndicates vying for power in the City of Sails, Luskan. Growing up in the Vagrans family made criminal activity a natural part of every day life. However, as Radok became more mature, he realized that this was not the norm, that there was more to life. A key factor in his transformation was Narissa, a young maid of similar age in the Vagrans estate. Radok and Narissa grew more and more attached as time went by. When he became 17 years old he couldn't take it any longer, renouncing his ties to the family and fleeing with Narissa. Radok knew the family's network ran deep, so they fled far. In the end, they settled down in a forested grove a day's travel south east of a small town called Nightstone. There they manged to live in relative peace, a concept foreign to Radok. This peace lasted around 10 years. Upon returning from his daily hunt, he found an encrypted letter on the cabin porch. Narissa said she went to pick it up but was struck with terror when she saw the waxing on the letter: The Vagrans family seal. Radok's mind began racing, trying to find a solution to their discovery. He realized it was all in vain, they had been found. He opened the letter and saw that it was encrypted, but he recognized the cryptograph. It was the one used by his father's inner circle. The letter was vague, but it called for him to return to the family estate, threatening Narissa's life if he did not. With a heavy heart, but a set mind, Radok set forth on a road he had wished to erase from his reality. During his travels he wracked his brain for what to expect when he arrived at the Vagrans estate.
+
+	

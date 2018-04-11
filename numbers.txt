@@ -1,0 +1,21 @@
+27
+str 8
+dex 15 9
+cons 12 4
+char 10 2
+int 10 2
+wis 12 4
+
+Ranger. 3
+athletics
+insight
+perception >
+investigation
+stealth >
+survival >
+
+Human Variant. 1
+Acrobatics
+
+Dmg Check:
+2d8 * 2 (attacks) + 2d6 (H.mark) + 1d8 (Colossus slayer) + 2d6 (sneak attack) (TB finished)
