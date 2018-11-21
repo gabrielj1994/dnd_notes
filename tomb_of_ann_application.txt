@@ -1,0 +1,14 @@
+Player Name: 
+Gabriel
+
+Character Name:
+Markus Aurelion
+
+Character Race:
+This is the race you want to play.
+
+Character Class: 
+This is the class you want to play.
+
+Why is your character willing to go into the dangerous destinations that await: 
+The risk of death is going to be very clear. Why are you willing to put your life on the line?
