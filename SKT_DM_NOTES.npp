@@ -300,52 +300,447 @@ dripping caves
 INHABITTANTS:
 goblin clan
 pair of ogres
+	make one a howdah
+		tome of foes, 222
 ooze
+Other info:
 	~1 mile out
 	DESC: discover a gaping cave mouth on the south face of a
 	rocky hill topped with pine trees.
 	CHAR BEHAVIOR: hour to circle hill => two other entrances. 29 right bot
+	HARK - GOBLIN BOSS
+		can negotiate
+	Entrances:
+		West Side.
+			narrow tunnel, stream flowing into it
+				40 ft. long and leads to AREA 6 - 
+		East Side.
+			dry 100 foot long tunnel that slopes down to AREA 3A
+		TOP OF HILL
+			chimney - 50 ft to area 7
+				-abundant handholds. 10 athletics
+		MAIN ENTRANCE:
+			12 feet wide and 20 feet high
+CAVE
+	AREA 1 - main cavern
+		hit by a wall of awful smells, weird acrid stench sticks to the walls of your nose with every breath
+		IF LIGHT - 1a 1b and 1c detect them and attack
+			Goblins yell out - BREE-YARK!
+		ceiling - 30 ft.
+		 a vast cavern with a forest of stalagmites in its center and 10-foot-high ledges along its walls
+		mud bath - 5 ft deep, hot. diff. terrain
+		stalagmites.
+			range from 3-15 ft in height
+			ogre den in the middle
+			Thog sleeping
+		polluted pool
+			toxic minerals(?), bat guano morelike
+	AREA 2 - warrens
+		weak goblins
+			ac 10, 1 hp
+		1d6 goblin noncombatants
+		grass pallets are what the goblins sleep on
+		rusty pots, odd tools, toys
+		2b - cave of bones. small animals & a few larger humanoids
+	AREA 3 - east caves
+		'blob'
+		3a. stalactites and stalagmites crows this 20' high 15' wide cave. 
+			- particularly large stalagmite (10')
+				riddled with holes, 4" wide, 12" deep.
+			-base of the stalagmite, 2 badly corroded goblin scimitars
+		3b. small waterfall
+			8ft ceiling.
+			5 ft deep pool.
+			near SE wall are mushrooms
+				dc 10 nature
+					poisonous
+				eat shroom - dc 10 con save. 1 poison dmg, poisoned for 1 hour.
+	AREA 4 - PRISONERS
+		-short tunnel, leads to a sunken cavern.
+		echoing with the sound of flapping wings
+		- naturally formed pit in the caverns floor, littered in the brown black droppings
+		- play off the need to remain quiet
+		VILLAGERS
+			MORAK Ur'gray
+				LG shield dwarf. the owner and proprietor of the nightstone inn - the black flagon.
+				Hopes: LADY VELROSA NANDAR will send help to rescue them.
+			Hiral Mystrum
+				LG human male
+				cowardly priest of lathander
+			6 unarmed guards
+				wounded
+			agganor family - tieflings
+				destiny agganor
+					age 42
+					pessimist
+					XworshipsX reveres asmodeus (asmoDAYus)
+						likely for a fear of being cursed or something
+						as a result is very lawful
+						but moderately supersticious
+				Grin agganor
+					age 27
+					worked in the stable house
+	AREA 5 Fissure
+		nothing
+		goblins say big earth shaking made it recently, used to be big wall
+	AREA 6
+		ankle deep stream
+		bad tasting water here
+		goblin non combatant
+	AREA 7 natural chimney (5 ft. wide)
+		small side cave
+		7 ft. ceiling
+		GOBLIN - SNIGBAT
+			feels punished
+			offers to lead them to boss hark if they promise to kill hark and help snigbat become the new boss
+				also wants the ogres dead
+	AREA 8 - hoard
+		boulder covers passage. dc 11 athletics
+			area 9 hears the boulder
+		The cave has an 8-foot-high ceiling and contains a
+		grass pallet (Hark's bed), next to which rests a battered
+		wooden chest with a rusty lock. The lock is purely for
+		show and falls apart if handled roughly
+		LOOT - 33 - top left
+	AREA 9 - boss cave
+		hark
+		guards - ratcha and zukluk
+		7 giant rats
+		scene - rats eating the corpse of a villager, darthag ulgar
+		note - villagers' equipment in in a western alcove behind the rocks.
+		HARK's LARDER
+			north end of cave is smaller cave
+				cower daphne featherstone
+					LG human female. lady velrosa nandar's lady in waiting
+					incosolable if finds out lady nandar is dead
+		DEALS
+			-Kill the blob	
+--
+VILLAGERS
+			MORAK Ur'gray
+				LG shield dwarf. the owner and proprietor of the nightstone inn - the black flagon.
+				Hopes: LADY VELROSA NANDAR will send help to rescue them.
+			Hiral Mystrum
+				LG human male
+				cowardly priest of lathander
+			6 unarmed guards
+				wounded
+			agganor family - tieflings
+				destiny agganor
+					age 42
+					pessimist
+					XworshipsX reveres asmodeus (asmoDAYus)
+						likely for a fear of being cursed or something
+						as a result is very lawful
+						but moderately supersticious
+				Grin agganor
+					age 27
+					worked in the stable house
+			delfryndel family - humans
+				own and operator the NS windmill
+				they have been crying/sobbing
+				renarra delfyndel
+					64
+				zalf
+					40
+				elize - wife
+					37
+				darson
+					17
+				hildy 
+					14
+				olaf (zalf's brother)
+					killed and eaten by goblins
+			hulvaarn family - humans
+				potato and turnip farmers
+				godrick
+					32
+				prennis -wife
+					30
+				jehanna
+					12
+				ellis & ghalt - twins
+					9
+				Nestor
+					dead in the attack
+			nesper - human
+				pumpkin & squash farmers
+				3 dead at the hands of the goblins
+					parents & older sister
+				sobbing and crying
+				Yondra
+					15
+				Sarvin
+					11
+			Osstra - human
+				wheat farmers
+				thelbin male
+					52
+				Brynn - husband
+					52
+				Broland - nephew
+					23
+				goblins ate thelbin's mom, and sister.
+			Summerhawk - halflings
+				taela
+					apothecary
+				barley
+					10
+				midge
+					8
+				nincy
+					6
+				dollop
+					3
+				larlow -husband
+					killed in NS when rock fell on their house
+			darthag ulgar
+Dripping caves END
+----
+DEVELOPMENT
+Morak's Quest
+	Once he is safely back in the village, Morak Ur'gray
+takes stock of the damage, makes arrangements to deliver news of the giants' attack to Waterdeep
+QUEST:
+	Morak's friend and neighbor, Semile Southwell, was
+killed in the giant attack. Although she had no family
+in Nightstone, Semile spoke often about her brother,
+Markham. Morak knows that Markham is the sheriff of
+Bryn Shander and asks the characters to travel to Icewind Dale and deliver the sad news of Semile's passing.
+----
+TOWER OF ZEPHYROS - adjusted
+	they are on their way to brynn shander when someone sees something glisten
+		bump into it, then the invisibility spell fades, and the gates open magically
+	end with zephyros
 	
+
 ======
 SESSION 12-??-18
-
+	nightstone inn. the black flagon
 SESSION 1-27-18
 they stopped at kella
+	cloud giant attack was the day before the players got to nightstone
 
-======
-DEAD SESSION
-SESSION 12-26-18
-leaf playing flute on the way to the nightstone.
-darius telling jokes. he is forthcoming with his purpose. has a symbol of a coin with a hand holding scales
-they go into town. damon sneaks in spots the mass flying.
-they fight the worgs
-stop the goblins in the temple
-explored some of the buildings
-encountered Kella at the Inn
-short rest
-went to the castle, crossed the collapsed bridge using ladders
-found out that the ruler of nightstone perished in the giant's attack
-makeshift burial ceremony
-took another short rest
-radok was trying to keep an eye on kella
-she lost him when she went out to get water from the well
-they heard a guard shouting about riders at the gates shouting for a kella
-then they heard the sound of the drawbridge being lowered
-
+Session 2-10-18
+kella->keep->guards->7 snakes->orcs->rest->dripping caves
+	they found a small cave a hunter used as a rest stop while hunting
+		liam left a note that night stone is safe
+	found the main cave entrance, sent the owl around the big hill, two hoots
+	
+Session 2-24-18
+	need to re-describe the hill
+	found the western entrance. followed it into the dripping caves
+	found the weaving tunnels. Prepared the terrain to be advantageous with Liam's magic
+	lured the rats and hark's bodyguards
+	then funneled the goblins and ogres in the main cavern
+		thanks to liam's magic once again, the ogre's harness contraption proved of little use.
+		then took advantage of the ogre's poor intelligence to lure into the small tunnel.
+	struck a deal with a goblin that appeared displeased with current leadership, and freed the prisoners
+	erin was reunited with her relative, destiny agganor and grin agganor.
+Session 3-10-18
+	DM NOTES:
+		Morak urgray (the dwarf) is going to inquire with jehan about the state of the town
+		 hiral Mystrum (the lathander priest) is tagging alongside the dwarf
+		WHEN THEY GET TO TOWN
+			-daphne featherstone freaks out from the death of lady nandar
+			-grin goes to check on the horses
+				-finds a carrier pidgeon/raven for jehan
+					from so and so (make up a name, Stanmar Ilfell)
+					asking for a status report, they have received word from merchants that nightstone expected activity is delayed. Send report as a reply using this carrier, and await further instructions.
+			-Morak gives his quest
+			-Destiny asks erin for something? idk what though...
+		NOTES ON BANDITS AND KRAKEN PEEPS
+			SCOUTS ENCOUNTER
+				2 scouts (1/2)
+				3 thugs (1/2) changed to have 14 ac and 20sh hp. single attack with a 2h
+			MAIN ENCOUNTER
+			one nerfed kraken priest (cr 1) - Moira (NERF: 26 HP. AC: 12 (leather armor)). 
+				Spells: Frostbite/ray of frost, Infestation(?), Armor of agathys, ice knife(?), maybe neo-arms of hadar (some control variant of arms of hadar)
+				kraken voice: vorkalesh ilgrathul snerkal mihr; pitiful mortals, witness true power and tremble 
+				DC 12 for spells, DC 11 for kraken voice
+			one bandit captain (cr 2) -  Xolkin Alassandar
+			one spy (cr 1) - kella
+			2 sahuagin or sea spawn (nerfed to 1/4) NERF: hp to 10 or so. ac to 15 (add some coral armor)
+				HARD - 950xp * 2 - 1900 xp
+		CLUES
+			they get the crystal orb
+			see the engraving on the priest's forehead
+			find a golden goose on xolkin
+	ACTUAL SESSION
+		jehan's report.
+			attacked by a giants' floating castle
+			attacked by goblins. many casualties
+				lady nandar
+			lets them know that morak is in charge
+		they head out, meet zephyros
+			they head towards the forest, follow the locate object needle.
+				it stops working
+			detect various groups around them
+				decide to go for the hunters
+					dispatch them
+					question 1 (Rod)
+			try to lure the main group out
+				doesnt work, just alerts them to their presence
+		they wait for darkness to move forward.
+			they get ambushed instead
+Session 3-17-18
+	DM NOTES
+		post combat:
+			-they find a mark on the kraken priest's chest of what looks to be an upside down octopus. It seems to be in a glistening tar-like substance, but on a closer look it appears to have melded with the creatures piscine flesh, almost as if it was part of its natural pigmentation.
+			-the cloaks on the fish lackies
+			-the zhentarim. theyre working with the kraken society to get them giant artifacts in exchange for collaboration in the main city centers.
+				-they have 150 gold and 100 silver on them altogether (160 gold)
+				-they have a wooden coin painted gold with what appears to be the silhouette of a goose carved on it. The other side of the cain has the upside down octopus mark in a black inky substance.
+			-the orb
+			
+		return to zephyros:
+			he has a staff of magi and a robe of glittering stars, whose radience ebb and flow.
+				arcana check from liam to recognize the staff of magi
+			loot
+				2 potions
+				1 pixie dust
+				1 ointment. during short rest 2d8+2, cures poison disease, 4 uses
+		Unfriendly Skies:
+			the cultists come, claiming that their great seer of Yan C Bin has augured the coming time of chaos, from which their faithful can reap great opportunity. The time is nigh to "return the world to its primordial state, as it was at the dawn of history."
+				zephyros tries to contact other plane
+					the leader yells "Hesitation is for the unfaithful, REPENT!" and takes out a crystal that shoots out a green beam at zephyros who is looking away.
+						the robes seem to move on their own as they raise up his arm, his staff blocking the beam.
+							zephyros turns his back, and with a look of shock says "Oh d-" and then zephyros and the cultist leader are both enveloped in green light and disasppear.
+								the rest of the other cultist look at each in confusion but then draw their weapons and charge "F-F-For the Great Howling Prince"
+		Operation Orb Strike:
+			NON COMBAT
+			the dwarves and dragon come up and declare that they are encroaching upon Mithral Hall's airspace, and sightings of multiple unfriendly flying structures have been reported.
+			they identify themselves as acting with the authority of the lord's alliance
+	ACTUAL SESSION
+		long fight
+		kona the barbarian joins midway
+		they loot stuff up
+		go back to the tower
+			they meet zephyros with his magical robe and staff of magi
+		they start flying to Bryn Shander
+			dwarves on a dragon from mythral hall come by
+Session 3-31-19
+	DM Notes
+		Unfriendly skies
+			the myrmidon comes out, zaps a bunch of the cultists, amarath shows him the tattoo on his hand. 
+				upside down triangle, with a 3 pronged Y on top.
+					https://db4sgowjqfwig.cloudfront.net/campaigns/88422/assets/822605/Yan-C-Bin_HS.png?1517004866
+		aftermath.
+			they get the bag of holding from the guy and level up
+		BRYN Shander
+			from the South West gate. description page 39
+				they meet augrek brighthelm
+					 "Well met,
+					travelers! Keep yer fingers and extremities under wraps,
+					lest Auril bite them off! Mind yer tempers, and you'll be
+					most welcome here! Brought goods to sell? The market
+					lies straight ahead. Craving a warm drink? May I recommend a drop of Firebeard's Firebrandy, sold only at
+					Kelvin's Comfort, located on yer right as you enter the
+					market square!"
+			council hall (not likely) b3
+			house of the triad (b4)
+				impressive stone edifice (description page 40 bottom left)
+				tyr, torm, and ilmater
+				PEOPLE
+					Dellvon Ludwig (LG male Illuskan human priest) and his 
+					faithful friend, Sirac ofSuzail (see appendix D)
+			on way to market skip (b5 speaker's palace)
+				sw of market flanking on the left is the armory (b9). heavily guarded building with sturdy walls and 2 guard patroling the battlements.
+				se of market flanking on the right is an inn. Kelvin's Comfort. (b8) (41 bottom left)
+				marketplace
+					circular space in the center of town where local and foreign traders are selling their wares.
+					(desc 41 left middle)
+				nwest end of market
+					blackiron blades (b10, 41 right middle)
+						small shop and smithy
+				north end
+					b11 the hooked knucklehead (41 right bottom)
+						another inn. scrimshanders
+				east end
+					b12 rendaril's emporium
+						largest tradew house in bryn shander. (41 right bottom)
+			SE of market (town hall b6)
+				largest building that borders the central square (41 top left)
+			north end of city
+				b13 the northlook
+					another inn. mercenaries and adventurers
+						rowdiest and most dangerous place
+			east end of city
+				geldenstag's rest
+					myrtle runs this place. female human
+			DEVELOPMENTS
+				scuffle in the marketplace.
+					one guy is complaining about getting cheated out of money for low quality goods 
+					(complaining about a winter coat of poor quality)
+						the trader tries to get the man to buzz off. sends one of his caravan hands to drive him off.
+							gives him a small shove but as if it had been made 
+							with super human strength the man goes tumbling backward into the mud
+								and as the guy is falling he tears the coat, then blames the guy
+ACTUAL session
+			they fight the elemental
+			dropped off at bryn shander
+				greeted by augrek
+			they are cold af,
+				go to market to buy coats and accessories
+				they witness the scuffle, then jehan notices he got pick pocketed
+					they chase the thieves
+SESSION 4-14-19
+	DM Notes
+		zhentarim pick pocket.
+			outcome. not much, they just realize the network has agents everywhere
+			they get their stuff back
+			guards show up, ask what is going on
+			then they send the party to go look for the sheriff Southwell
+		southwell meeting, kinda wing it
+			how does the death of his sister impact him
+				he gets emotional, lets his anger show more than he should perhaps.
+				gives the PCs the task to go hunt down frost giants in the surrounding region
+					tells them if they want better quality coats, to go to the temple. A fellow there has garnered a reputation for his high quality coats.
+		maybe they have an encounter with some winter wolves that were chasing a giant goat and her calf?
+			nah prolly not. they just see some winter wolves atop a snow dune, they howl a bit and then go chase a giant goat
+		EVENTUALLY encounter the frost giants
+			development
+				they see 2 frost giants having an argument with some fire giants.
+					its 3 fire giants + some azer and yaks
+						the frost giants have a slab of adamantium and the fire giants want it for Vonindod
+							the frost giants claim that they took it off some caravan and so its theirs
+								at that the fire giants set upon the frost giants, kicking them down and taking their slab
+						culmination is a scuffle between the giants, frost giants are a little injured
+	actual session
+		combat with thieves was super easy
+			i forgot to do the writ thing RIP
+		they go back to the marshall, i rp the marshall horribly but get the point across
+			send them to go look for giants
+		the giant event goes well, hard fought
+SESSION 4-28-19
+	DM Notes
+		they make some checks, might encounter other random stuff in the wilderness.
+		they get back to brynn shander, interact with the sheriff/marshall
+		then the big battle breaks out
+	actual session
+		
+		
 ======
 NOTES FOR FUTURE
+they have the wooden golden coin
+they have seen the fish people and the kraken society symbol
+they know the zhentarim are possibly working with the fish people
+they know the zhentarim/fish people are gathering giant relics
 harshnag fighting fire giants somehow
 	fire giants likely fetching one of the adamantium slates
 also want to do the claw undead
-	maybe yartar with someone from the gambling boat as the unwitting master
+	maybe yartar with someone from the gambling boat as the knowing or unwitting (likely knowing, harder to be unwitting) master
 	at the end of that some people die from psychic damage
 the dawn titan
 	in time immemorial some dwarf god made a deal with the dawn titan to create the forge for them. it is essentially a pocket dimension where the dawn titan can 'play' to its heart's content. 
 ======
+-barbarian - kona
+	from sholazitki plateau, bordering the high moor. Kalakaua tribe
 -ranger - viktor - michel
 	-an exotic dancer
 -fighter - jehan - ed
 	-Born in a small village, Jehan felt trapped and desired a life full of adventure and companionship. When he was of age, he left his family and village in order to seek out a true purpose in life. While entering the nearest major settlement, he heard of the Lord's Alliance and all of its achievements from defeating dragons to stopping the summoning of ancient beings who would bring complete annihilation to the world as we know it. After going through the trials of the Lord's Alliance, he became an honorary member and was able to go on various missions.Through these various missions, Jehan discovered the true horrors of the world with the deaths of many of his companions by monstrous beings with immense powers. This caused Jehan to be more secluded for he did not want to have to feel the loss of a companion he truly cared for. His latest mission from the Lord's Alliance was to seek out further information on a possible giant incursion that could threaten the entire Sword Coast if not dealt with.
+	-has a service mate called Vickard.
 	-From kheldell. small logging town nw of waterdeep. at the foot of the sword mountains and near the westwood forest. https://forgottenrealms.fandom.com/wiki/Kheldell
 	
 -sorcerer - liam - ale
@@ -390,6 +785,26 @@ Michel - Radok
 	purpose: travel the world to learn about how to control it.
 	IDEAS FOR HOOK: His family heard that there is a zhentarim agent trying to establish a foothold in nighthold. The family sentiment is that the black network grows too strong and might try to seize majority control of the sword coast's underground. You are dispatched to stop this operation from succeeding without letting them on that the vagrans are involved.
 	
+======
+DEAD SESSION
+SESSION 12-26-18
+leaf playing flute on the way to the nightstone.
+darius telling jokes. he is forthcoming with his purpose. has a symbol of a coin with a hand holding scales
+they go into town. damon sneaks in spots the mass flying.
+they fight the worgs
+stop the goblins in the temple
+explored some of the buildings
+encountered Kella at the Inn
+short rest
+went to the castle, crossed the collapsed bridge using ladders
+found out that the ruler of nightstone perished in the giant's attack
+makeshift burial ceremony
+took another short rest
+radok was trying to keep an eye on kella
+she lost him when she went out to get water from the well
+they heard a guard shouting about riders at the gates shouting for a kella
+then they heard the sound of the drawbridge being lowered
+
 ====
 WORLD
 
@@ -441,6 +856,13 @@ fire - duke zalto
 			could target infrastructure that contains one of such slabs.
 			or smiths transporting something they found
 		-steal maegera, the fire primordial trapped in Gauntlgrym.
+	forces:
+		the yakmen
+		some azer
+		drow(?)
+		fire hounds(?)
+		salamanders
+		
 cloud. - countess sansuri
 	goal: find long lost trove of dragon magic.
 		-captured a bronze dragon felgolos for information
